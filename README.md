@@ -8,4 +8,4 @@ PremierZone is a comprehensive project designed to scrape match statistics for o
 - **Backend**: Dynamic manipulation and presentation of the scraped data through a Spring Boot application.
 - **Database**: Real-time data manipulation within a Postgres database using SQL queries.
 - **Frontend**: Seamless integration with a user-friendly ReactJS interface.
-- **Machine Learning**: Created a model to predict match outcomes by integrating data scraping with pandas and machine learning with scikit-learn.
+- # **Machine Learning**: Created a model to predict match outcomes by integrating data scraping with pandas and machine learning with scikit-learn.
