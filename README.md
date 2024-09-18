@@ -1,4 +1,4 @@
-# PLFantasyZone
+# MatchMind
 
 PLFantasyZone is a comprehensive project designed to scrape match statistics for over 700 players, manipulate and present the data dynamically, and predict match outcomes using machine learning.
 
